@@ -1,12 +1,51 @@
-#Header{
+ 
+.textcontent{
+    
+    background-color: grey;
 
-background-color: grey;
+    height: 100px;
+    color: white;
+      
+    display: flex;
+    align-items: center;
 
-height: 100px;
-color: white;
-  
-display: flex;
-align-items: center;
 }
+
+#MainContent{
+
+    background-color: rgb(10, 142, 250);
+    height: 300px;
+ 
+  
+}
+
+#nav{
+height: 400px;
+width: 20%;
+background-color: rgb(255, 255, 255);
+
+  
+ 
+} 
+
+.navitem{
+
+    background-color: rgb(88, 139, 180);
+ font-size: large;
+padding: 22px;
+margin: 10px;
+ color: white;
+
+}
+
+
+#content{
+
+    height: 400px;
+width: 80%;
+
+}
+
+
 
  
